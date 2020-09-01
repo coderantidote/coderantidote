@@ -11,6 +11,6 @@
 I'm interested in cyber security and software.
 <br />
 
-[!coderantidote's github stats](https://github-readme-stats.vercel.app/api?username=coderantidote&hide=["issues"]&show_icons=true)
+![coderantidote's github stats](https://github-readme-stats.vercel.app/api?username=coderantidote&hide=["issues"]&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderantidote)](https://github.com/anuraghazra/github-readme-stats)
