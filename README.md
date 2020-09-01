@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there I am Antidote 👋
 
-<!--
-**coderantidote/coderantidote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/coderantidote">
+  <img align="left" alt="coderantidote - Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
+</a>
+<a href="https://t.me/coderantidote">
+  <img align="left" alt="coderantidote - Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
+</a>
+ 
+<br />
+I'm interested in cyber security and software.
+<br />
+![coderantidote's github stats](https://github-readme-stats.vercel.app/api?username=coderantidote&hide=["issues"]&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderantidote)](https://github.com/anuraghazra/github-readme-stats)
