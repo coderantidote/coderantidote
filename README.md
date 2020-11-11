@@ -11,6 +11,4 @@
 I'm interested in cyber security and software.
 <br />
 
-![coderantidote's github stats](https://github-readme-stats.vercel.app/api?theme=radical&username=coderantidote&hide=["issues"]&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=coderantidote)](https://github.com/anuraghazra/github-readme-stats)
+![coderantidote's github stats](https://github-readme-stats.vercel.app/api?theme=radical&username=coderantidote&hide=["issues"]&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=coderantidote)](https://github.com/anuraghazra/github-readme-stats)
