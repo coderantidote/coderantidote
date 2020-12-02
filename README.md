@@ -3,10 +3,6 @@
 <a href="https://twitter.com/coderantidote">
   <img align="left" alt="coderantidote - Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
 </a>
-<a href="https://t.me/coderantidote">
-  <img align="left" alt="coderantidote - Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
-</a>
- 
 <br />
 I'm interested in cyber security and software.
 <br />
