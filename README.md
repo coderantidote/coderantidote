@@ -13,4 +13,3 @@ class Profile:
         keybase = "@coderantidote"
         return True
 ```
-![tryhackme stats](https://raw.githubusercontent.com/coderantidote/coderantidote/master/assets/thm_propic.png)
